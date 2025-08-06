@@ -71,4 +71,7 @@ Legal_Document_Explainer/
 
 - The LLM component uses a mock implementation that can be easily replaced with a real model
 - All components are modular for easy maintenance and updates
-- The frontend uses vanilla JavaScript for simplicity and performance 
+- The frontend uses vanilla JavaScript for simplicity and performance
+
+
+## Live Link : https://legal-document-explainer-1.onrender.com/
